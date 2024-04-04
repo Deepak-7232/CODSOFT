@@ -6,4 +6,3 @@ location - Gurugram
 fe
 fes
 ge
-vd
